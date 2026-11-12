@@ -27,4 +27,6 @@ Weitere Beispiele aus Data Analytics und Automatisierung folgen.
 
 ---
 
-**Kontakt:** [LinkedIn](https://www.linkedin.com/in/oksana-huber) · [cv.oksanahuber.com](https://cv.oksanahuber.com)
+**Website:** [oksanahuber.com](https://oksanahuber.com) · Business & Process Analysis, KI & Automatisierung, Business Coaching
+
+**Kontakt:** [oksanahuber.com/#kontakt](https://oksanahuber.com/#kontakt) · [LinkedIn](https://www.linkedin.com/in/oksana-huber) · [cv.oksanahuber.com](https://cv.oksanahuber.com)
